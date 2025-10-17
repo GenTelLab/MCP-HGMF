@@ -3,7 +3,7 @@
 A Scalable Probabilistic Pruning Paradigm for Tool Invocation Based on Model Context Protocol.
 
 <div align="center">
-  <img src="img/img1.png" alt="HGMF Workflow" width="600"/>
+  <img src="HGMF/img/img1.png" alt="HGMF Workflow" width="600"/>
   <p><strong>HGMF </strong></p>
   <p>
      <a href="https://arxiv.org/abs/2508.07602" target="_blank" style="text-decoration: none;">
